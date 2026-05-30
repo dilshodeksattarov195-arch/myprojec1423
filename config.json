@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsender",
+        "uuid": 9468642,
+        "checksum": "pbc6co"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
